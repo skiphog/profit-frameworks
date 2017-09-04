@@ -4,3 +4,5 @@
 Курс посвящен обзору трёх ведущих в настоящий момент фреймворков: Yii 2, Symfony 3, Laravel 5.
 
 **[Домашняя работа №1 - Главные страницы](https://github.com/skiphog/profit-frameworks/blob/master/homework-1.md)**
+
+**[Домашняя работа №2 - Middleware](https://github.com/skiphog/profit-frameworks/blob/master/homework-2.md)**
