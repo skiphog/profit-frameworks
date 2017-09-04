@@ -1,1 +1,1 @@
-## Современные PHP-фреймворки
+## Современные PHP-фреймворки [pr-of-it.ru](http://pr-of-it.ru/courses/php-frameworks.html)
