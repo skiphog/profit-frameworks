@@ -22,7 +22,11 @@
 В symfony нет Middleware как в Laravel и нет подобного механизма как в Yii.
 Но в документации написано, что у symfony есть хороший способ вмешаться в Request, используя EventDispatcher component.
 ([Ссылка на документацию](http://symfony.com/doc/current/event_dispatcher/before_after_filters.html)). Я так и сделал.
-* [Создал Event Subscriber](https://github.com/skiphog/profit-symfony/blob/master/src/AppBundle/EventSubscriber/TokenSubscriber.php) и реализовал заданную логику в нем. 
+* [Создал интерфейс](https://github.com/skiphog/profit-symfony/tree/master/src/AppBundle/Controller). Его нужно имплементировать ["целевым"](https://github.com/skiphog/profit-symfony/blob/master/src/AppBundle/Controller/VerifyController.php) контроллерам.     
+* [Создал Event Subscriber](https://github.com/skiphog/profit-symfony/blob/master/src/AppBundle/EventSubscriber/TokenSubscriber.php) 
+и реализовал заданную логику в нем.
+
+
 
 
 
