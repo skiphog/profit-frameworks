@@ -6,3 +6,5 @@
 **[Домашняя работа №1 - Главные страницы](https://github.com/skiphog/profit-frameworks/blob/master/homework-1.md)**
 
 **[Домашняя работа №2 - Middleware](https://github.com/skiphog/profit-frameworks/blob/master/homework-2.md)**
+
+**[Домашняя работа №3 - Шаблоны](https://github.com/skiphog/profit-frameworks/blob/master/homework-3.md)**
