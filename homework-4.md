@@ -18,3 +18,5 @@
 * [Виджет для вывода новостей](https://github.com/skiphog/profit-yii2/blob/master/components/ArticleWidget.php) (Назвал так, т.к. NewsWidget уже занят для прошлого ДЗ). [Шаблон для виджета](https://github.com/skiphog/profit-yii2/blob/master/components/views/articles.php) и [применение](https://github.com/skiphog/profit-yii2/blob/master/views/news/index.php#L15) 
 
 **Symfony**
+* Созданы сущности [Автор и Новости](https://github.com/skiphog/profit-symfony/tree/master/src/AppBundle/Entity), а так же связи между ними
+* [Вывод новостей](https://github.com/skiphog/profit-symfony/blob/master/app/Resources/views/news/index.html.twig) с [переданными данными из БД](https://github.com/skiphog/profit-symfony/blob/master/src/AppBundle/Controller/NewsController.php) 
