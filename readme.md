@@ -10,3 +10,5 @@
 **[Домашняя работа №3 - Шаблоны](https://github.com/skiphog/profit-frameworks/blob/master/homework-3.md)**
 
 **[Домашняя работа №4 - Миграции](https://github.com/skiphog/profit-frameworks/blob/master/homework-4.md)**
+
+**[Домашняя работа №5 - ORM](https://github.com/skiphog/profit-frameworks/blob/master/homework-5.md)**
